@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![dch0319's GitHub stats](https://github-readme-stats.vercel.app/api?username=dch0319&count_private=true&show_icons=true&theme=radical)
 <!--
 **dch0319/dch0319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
